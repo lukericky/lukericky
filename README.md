@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Munduchirackal Luke Ricky
-- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning B.E in Computer Science
 
 <!---
